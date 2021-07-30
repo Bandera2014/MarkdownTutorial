@@ -28,7 +28,7 @@ If you click on the edit button, which is indicated by the pencil icon on the to
  
 You notice how the AboutMe has a bigger text font than the "Markdown Tutorial" text. This is because the AboutMe text is preceded by a heading order that gives it a bigger font, usually indicating a section. We will explore headers in the next section.
  
-<b>Heads Up!</b>: I will be cloning this repository onto my client so I can work off of Visual Studio code. You are more than welcome to follow my standard, but you may also edit on the screen and apply the changes as such.
+<b>Heads Up!</b>: I will be cloning this repository onto my client so I can work off of Visual Studio code. You are more than welcome to follow my standard, but you may also edit on the screen and apply the changes as such.  If it is your first time to ever preview README's on VSC here is a [link](https://code.visualstudio.com/docs/languages/markdown) to help you get started. 
  
 <details closed>
 <summary>If you're editing on Github open here</summary>
